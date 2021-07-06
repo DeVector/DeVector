@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeVector
-- 👀 I’m interested in Mobile
-- 🌱 I’m currently learning Java and Kotlin
-- 💞️ I’m looking to collaborate on Android Apps
+- 👀 I’m interested in POO
+- 🌱 I’m currently learning Java and Angular CLI
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me in the instagram @oliveiiraviictor
 
 <!---
